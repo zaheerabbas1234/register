@@ -1,4 +1,10 @@
-Absolutely! Understanding how to automate the software development lifecycle (SDLC) through DevOps is crucial for enhancing efficiency and delivering high-quality software. Here’s a breakdown of the key concepts and capabilities required for implementing DevOps practices like Continuous Integration (CI) and Continuous Delivery (CD):
+Exercise 3:
+Module name : DevOps adoption in projects
+It is important to comprehend the need to automate the software development lifecycle stages through
+DevOps. Gain an understanding of the capabilities required to implement DevOps, continuous integration
+and continuous delivery practices. 
+
+ Understanding how to automate the software development lifecycle (SDLC) through DevOps is crucial for enhancing efficiency and delivering high-quality software. Here’s a breakdown of the key concepts and capabilities required for implementing DevOps practices like Continuous Integration (CI) and Continuous Delivery (CD):
 
 ### Importance of Automating the SDLC with DevOps
 
